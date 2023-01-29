@@ -8,7 +8,7 @@
 
 ## Submission
 
-Paste the URL to your github repo into sakai. The URL should be of the format
+Paste the URL to your github repo into sakai. The URL should be of the format:
 
 https://github.com/mikeizbicki/functional-python
 
